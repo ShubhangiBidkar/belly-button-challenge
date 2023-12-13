@@ -4,7 +4,7 @@
 
 ### Deployment
 
-Here is a link to the dashboard:
+Here is a link to the dashboard: https://shubhangibidkar.github.io/belly-button-challenge/
 
 ## Background
 
