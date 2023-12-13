@@ -1,6 +1,6 @@
 # Belly-Button-Challenge
 
-![Alt text](image.png)
+![Alt text](./IMAGES/image.png)
 
 ### Deployment
 
